@@ -1,0 +1,10 @@
+input[type="button"]
+    {
+     width:100%;
+     text-align:center;
+     background-color:blueviolet;
+     cursor: pointer;
+    }
+    #clr{
+        background-color: red
+    }
